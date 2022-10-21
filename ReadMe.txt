@@ -1,1 +1,1 @@
-This Code is about the 1st task given to us by the university in C language.
+It's the first code about stars in C language.
